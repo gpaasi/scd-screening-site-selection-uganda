@@ -1,7 +1,6 @@
 # Prioritizing Sickle Cell Newborn Screening Sites in Uganda using HbS and PfPR with Greedy Selection
 <!-- Badges -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17241990.svg)](https://doi.org/10.5281/zenodo.17241990)
-[![R-CMD-check](https://github.com/gpaasi/scd-screening-site-selection-uganda/actions/workflows/r-cmd-check.yml/badge.svg)](https://github.com/gpaasi/scd-screening-site-selection-uganda/actions/workflows/r-cmd-check.yml)
 [![Release](https://img.shields.io/github/v/release/gpaasi/scd-screening-site-selection-uganda)](https://github.com/gpaasi/scd-screening-site-selection-uganda/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![R >= 4.3](https://img.shields.io/badge/R-%3E%3D%204.3-276DC3?logo=r)
