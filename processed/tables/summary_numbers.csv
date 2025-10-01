@@ -1,0 +1,10 @@
+"metric","value"
+"HbS_median",0.0646092034876347
+"HbS_IQR_Q1",0.0482501341030002
+"HbS_IQR_Q3",0.0846065748482943
+"HbS_pct_pixels_ge_5pct",72.2298895899054
+"HbS_pct_pixels_ge_10pct",1.62657728706625
+"PfPR_area_weighted_mean",0.260490261546704
+"PfPR_pct_land_ge_0.30",94.3719260850454
+"CoRisk_p95",0.0407415258514734
+"Pct_land_CoRisk_ge_0.20",93.6460460234818
