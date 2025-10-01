@@ -1,0 +1,12 @@
+
+crs_analysis: "EPSG:32636"     # WGS84 / UTM 36N
+service_radius_km: 25
+k_sites: 50
+seed: 2025
+adm0_shp: "C:/Users/Dr. Nancy/OneDrive/Documents/geoBoundaries-UGA-ADM0-all/geoBoundaries-UGA-ADM0.shp"
+adm2_shp: "C:/Users/Dr. Nancy/OneDrive/Documents/geoBoundaries-UGA-ADM2.shp"
+hbS_raster: "C:/Users/Dr. Nancy/OneDrive/Documents/EBK_HbS3_UGA.tif"
+pfpr_mean_raster: "C:/Users/Dr. Nancy/OneDrive/Documents/PfPR_mean_2015_2024.tif"
+catchments_shp: "C:/Users/Dr. Nancy/OneDrive/Documents/catchments/catchments_traveltime_voronoi1_60min_clean4.shp"
+facility_master_csv: "C:/Users/Dr. Nancy/OneDrive/Documents/facilities_filtered_selected_types.csv"
+out_dir: "C:/Users/Dr. Nancy/OneDrive/Documents/co_risk_sites_outputs_25km"
