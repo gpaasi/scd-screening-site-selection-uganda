@@ -1,11 +1,21 @@
 
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Uganda SCD–Malaria Siting: HbS × PfPR greedy placement with equity diagnostics"
-date-released: 2025-10-01
+title: "Prioritizing newborn screening sites in Uganda using HbS and PfPR with greedy selection"
 authors:
-  - family-names: "YourSurname"
-    given-names: "YourName"
+  - family-names: "Paasi"
+    given-names: "George"
+    affiliation: "Uganda"
+date-released: "2025-10-01"
+license: "Creative Commons Attribution 4.0 International, code under MIT"
+preferred-citation:
+  type: software
+  title: "SCD-Malaria site selection workflow (R)"
+  authors:
+    - family-names: "Paasi"
+      given-names: "George"
+  year: 2025
+
 keywords:
   - geospatial
   - malaria
@@ -13,4 +23,4 @@ keywords:
   - terra
   - greedy selection
 license: MIT
-repository-code: "https://github.com/your-org/uganda-scd-siting"
+repository-code: "https://github.com/your-org/scd-screening-site-selection-uganda"
