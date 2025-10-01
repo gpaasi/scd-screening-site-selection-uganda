@@ -1,0 +1,16 @@
+
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Uganda SCD–Malaria Siting: HbS × PfPR greedy placement with equity diagnostics"
+date-released: 2025-10-01
+authors:
+  - family-names: "YourSurname"
+    given-names: "YourName"
+keywords:
+  - geospatial
+  - malaria
+  - sickle cell disease
+  - terra
+  - greedy selection
+license: MIT
+repository-code: "https://github.com/your-org/uganda-scd-siting"

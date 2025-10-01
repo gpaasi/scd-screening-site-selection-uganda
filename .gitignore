@@ -1,0 +1,26 @@
+
+# R/RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+# renv cache
+renv/library/
+renv/staging/
+renv.lock
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Outputs
+data/processed/*
+figures/*
+!data/processed/.keep
+!figures/.keep
+
+# Zips / temp
+*.zip
+tmp/
