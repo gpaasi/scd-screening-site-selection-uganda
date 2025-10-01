@@ -1,4 +1,13 @@
 # Prioritizing Sickle Cell Newborn Screening Sites in Uganda using HbS and PfPR with Greedy Selection
+<!-- Badges -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17241990.svg)](https://doi.org/10.5281/zenodo.17241990)
+[![R-CMD-check](https://github.com/gpaasi/scd-screening-site-selection-uganda/actions/workflows/r-cmd-check.yml/badge.svg)](https://github.com/gpaasi/scd-screening-site-selection-uganda/actions/workflows/r-cmd-check.yml)
+[![Release](https://img.shields.io/github/v/release/gpaasi/scd-screening-site-selection-uganda)](https://github.com/gpaasi/scd-screening-site-selection-uganda/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![R >= 4.3](https://img.shields.io/badge/R-%3E%3D%204.3-276DC3?logo=r)
+![renv](https://img.shields.io/badge/reproducibility-renv-success)
+[![Issues](https://img.shields.io/github/issues/gpaasi/scd-screening-site-selection-uganda)](https://github.com/gpaasi/scd-screening-site-selection-uganda/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/gpaasi/scd-screening-site-selection-uganda)](https://github.com/gpaasi/scd-screening-site-selection-uganda/pulls)
 
 ## Summary
 This repository implements a geospatial siting workflow for newborn screening and clinic placement in Uganda. The pipeline assembles HbS allele frequency and PfPR2–10 rasters, aligns them on a 5 km analysis grid, builds a co‑risk surface as HbS × PfPR, and selects a ranked list of proposed sites using a deterministic greedy algorithm with a 25 km service radius. It also produces coverage curves, district equity summaries, radius sensitivity, and collocation of proposed sites to health facilities using two‑step floating catchment area (2SFCA) polygons.
